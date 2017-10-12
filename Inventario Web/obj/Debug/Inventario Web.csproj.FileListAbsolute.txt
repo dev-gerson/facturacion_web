@@ -1,0 +1,20 @@
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\Inventario Web.dll.config
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\Inventario Web.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\Inventario Web.pdb
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Helpers.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Mvc.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Razor.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Razor.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Helpers.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\System.Web.Mvc.xml
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\bin\es\Microsoft.Web.Infrastructure.resources.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\obj\Debug\Inventario Web.csprojResolveAssemblyReference.cache
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\obj\Debug\Inventario Web.dll
+C:\Users\Gerson\Documents\Gerson Rodriguez\GitHub\Proyectos\facturacion_web\Inventario Web\obj\Debug\Inventario Web.pdb
